@@ -4,6 +4,8 @@
 <a href="https://www.instagram.com/choeunseong" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ### Skills
+
+Platforms & Languages
 <img src="https://img.shields.io/badge/JAVA-008080?style=flat-square&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 
 <!--
