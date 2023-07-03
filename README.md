@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there !
+
+<a href="https://www.instagram.com/choeunseong" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **escch/escch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
