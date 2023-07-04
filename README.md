@@ -9,7 +9,7 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/JAVA-008080?style=flat-square&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escch&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escch&show_icons=true&theme=graywhite)
 
 
 <!--
