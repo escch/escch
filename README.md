@@ -11,7 +11,7 @@ Platforms & Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escch&show_icons=true&theme=graywhite)
 
-a
+
 <!--
 **escch/escch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
