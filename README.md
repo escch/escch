@@ -1,7 +1,7 @@
 ### Hi I'm esc.
 
 <a href="dmstjd1114@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dmstjd1114@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lvd.ㅁg" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/lvd.ag" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ### Skills 
 
